@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Tharwat</h1>
-<h3 align="center">I'm a Data Scientist with a strong foundation in programming, statistics, and data.</h3>
+<h3 align="center">I'm a Data Scientist with a strong foundation in programming, statistics, and machine learning.</h3>
 
 - 📫 My email : **alimotharwat@gmail.com**
 
