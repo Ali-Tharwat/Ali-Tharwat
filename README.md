@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Tharwat</h1>
-<h3 align="center">I'm a Data Scientist with a strong foundation in programming, statistics, and machine learning.</h3>
+<h3 align="left-start">   I'm a Data Scientist with a strong foundation in programming, statistics, and machine learning.</h3>
 
 
 ## 📫 Contact & Profiles
@@ -37,23 +37,11 @@
 
 ### Web Development
 
-##### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-639?style=for-the-badge&logo=css&logoColor=fff)
+#### Frontend : ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-639?style=for-the-badge&logo=css&logoColor=fff)
 
-##### Backend
-![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+#### Backend : ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-##### APIs , Data & Package Managers
-![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
+##### APIs , Data & Package Managers : ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
 
 
 ### Game Development
@@ -65,3 +53,21 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📊 GitHub Stats :
+<p>
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-tharwat&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=500" 
+    alt="ali-tharwat" 
+    width="500"
+  />
+</p>
+<p>
+  <img 
+    align="right" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ali-tharwat&theme=tokyonight" 
+    alt="ali-tharwat" 
+    width="400"
+  />
+</p>
