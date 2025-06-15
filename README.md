@@ -66,7 +66,6 @@
   <img 
     align="right" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=ali-tharwat&theme=tokyonight" 
-    alt="ali-tharwat" 
-    width="400"
+    alt="ali-tharwat"
   />
 </p>
