@@ -60,7 +60,6 @@
     align="left" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-tharwat&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=500" 
     alt="ali-tharwat" 
-    width="500"
   />
 </p>
 <p>
