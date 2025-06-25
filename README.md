@@ -58,7 +58,7 @@
 <p>
   <img 
     align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-tharwat&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=500" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-tharwat&show_icons=true&locale=en&layout=compact&theme=tokyonight&cardWidth=600" 
     alt="ali-tharwat" 
   />
 </p>
