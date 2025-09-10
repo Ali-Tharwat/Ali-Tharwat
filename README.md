@@ -58,18 +58,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats :
-<p>
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-tharwat&show_icons=true&locale=en&layout=compact&theme=tokyonight&cardWidth=600" 
-    alt="ali-tharwat" 
-  />
-</p>
-<p>
-  <img 
-    align="right" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ali-tharwat&theme=tokyonight" 
-    alt="ali-tharwat"
-  />
-</p>
+## 📊 Stats :
+
+| Top Languages | GitHub Streak | LeetCode Card |
+| :--- | :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-tharwat&show_icons=true&locale=en&theme=tokyonight&cardWidth=450" alt="ali-tharwat" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-tharwat&theme=dark" alt="GitHub Streak" /> | <a href="https://leetcode.com/alitharwat/"><img src="https://leetcard.jacoblin.cool/alitharwat?theme=dark" alt="LeetCode Card" /></a> |
