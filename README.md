@@ -38,6 +38,6 @@
 
 ## 📊 Stats :
 
-| Top Languages | GitHub Streak | LeetCode Card |
-| :--- | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-tharwat&show_icons=true&locale=en&theme=tokyonight&cardWidth=450" alt="ali-tharwat" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-tharwat&theme=dark" alt="GitHub Streak" /> | <a href="https://leetcode.com/alitharwat/"><img src="https://leetcard.jacoblin.cool/alitharwat?theme=dark" alt="LeetCode Card" /></a> |
+| Top Languages | GitHub Streak |
+| :--- | :--- | 
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-tharwat&show_icons=true&locale=en&theme=tokyonight&cardWidth=450" alt="ali-tharwat" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-tharwat&theme=dark" alt="GitHub Streak" /> |
