@@ -70,7 +70,7 @@
 <table width="100%">
   <tr>
     <td>
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ali-tharwat&theme=tokyo-night&area=true&hide_border=true&days=29&custom_title=December%20Contribution%20Graph" alt="Activity Graph" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ali-tharwat&theme=tokyo-night&area=true&hide_border=true&days=28&custom_title=December%20Contribution%20Graph" alt="Activity Graph" />
     </td>
   </tr>
 </table>
