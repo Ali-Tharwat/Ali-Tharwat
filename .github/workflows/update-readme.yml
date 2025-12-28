@@ -2,28 +2,26 @@ name: Update Activity Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:  # Manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update README with current month and days
         run: |
-          # Get current day of the month without leading zero
           DAY_OF_MONTH=$(date +%-d)
-          
-          # Get current month name (e.g., January, February, etc.)
           MONTH_NAME=$(date +%B)
           
-          # Update the days parameter
           sed -i "s/days=[0-9]*/days=$DAY_OF_MONTH/" README.md
-          
-          # Update the custom_title parameter with current month name
-          # This handles URL-encoded spaces (%20)
           sed -i "s/custom_title=[A-Za-z]*%20Contribution%20Graph/custom_title=${MONTH_NAME}%20Contribution%20Graph/" README.md
 
       - name: Commit changes
@@ -31,5 +29,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          # Only commit if there are changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update activity graph for $MONTH_NAME" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update activity graph for $(date +%B)" && git push)
