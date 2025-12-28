@@ -17,32 +17,84 @@
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white&color=692a7a) ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&color=blue)  ![MIPS](https://img.shields.io/badge/-MIPS-003366?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-### Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### Data Analysis & Processing
+ ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-### Data Visualization
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-5C8EBC?style=for-the-badge&logo=pypi&logoColor=white) ![Plotly Dash](https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+### Machine Learning & Deep Learning
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Data Visualization & Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white) ![Plotly Dash](https://img.shields.io/badge/plotly-dash-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/-Seaborn-5C8EBC?style=for-the-badge&logo=pypi&logoColor=white) 
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Microsoft Server SQL](https://custom-icon-badges.demolab.com/badge/Microsoft%20Server%20SQL-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Web Development
-**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-639?style=for-the-badge&logo=css&logoColor=fff) ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET%20-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Node](https://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Nest](https://img.shields.io/badge/-Nest-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff) 
 
-**Backend:** ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-
-**Others:** ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)  ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
-
-### Game Development
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![JavaFX](https://img.shields.io/badge/-JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Tools
- ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+### Software Testing
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![K6](https://img.shields.io/badge/-K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
 ---
 
-## 📊 Stats :
+## 📊 Stats
 
-| Top Languages | GitHub Streak |
-| :--- | :--- | 
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-tharwat&show_icons=true&locale=en&theme=tokyonight&cardWidth=450" alt="ali-tharwat" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-tharwat&theme=dark" alt="GitHub Streak" /> |
+<!-- GitHub Streak (Self-Generated) -->
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/ali-tharwat/ali-tharwat/output/streak.svg" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<!-- Contribution Snake -->
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/ali-tharwat/ali-tharwat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+    </td>
+  </tr>
+</table>
+
+<!-- Profile Details -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-tharwat&theme=tokyonight" alt="Profile Details" />
+    </td>
+  </tr>
+</table>
+
+<!-- Monthly Contribution Graph -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-tharwat&theme=tokyo-night&area=true&hide_border=true&days=29&custom_title=December%20Contribution%20Graph" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
+
+<!-- Languages -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali-tharwat&theme=tokyonight" alt="Top Languages by Repo" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-tharwat&theme=tokyonight" alt="Top Languages by Commit" />
+    </td>
+  </tr>
+</table>
+
+<!-- Stats & Commits -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-tharwat&theme=tokyonight" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ali-tharwat&theme=tokyonight&utcOffset=2" alt="Commits" />
+    </td>
+  </tr>
+</table>
