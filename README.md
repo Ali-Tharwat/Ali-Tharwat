@@ -40,37 +40,37 @@
 ## 📊 Stats
 
 <!-- GitHub Streak (Self-Generated) -->
-<table width="100%">
+<table>
   <tr>
     <td>
-      <img width="100%" src="https://raw.githubusercontent.com/ali-tharwat/ali-tharwat/output/streak.svg" alt="GitHub Streak" />
+      <img src="https://raw.githubusercontent.com/ali-tharwat/ali-tharwat/output/streak.svg" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <!-- Contribution Snake -->
-<table width="100%">
+<table>
   <tr>
     <td>
-      <img width="100%" src="https://raw.githubusercontent.com/ali-tharwat/ali-tharwat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+      <img src="https://raw.githubusercontent.com/ali-tharwat/ali-tharwat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
     </td>
   </tr>
 </table>
 
 <!-- Profile Details -->
-<table width="100%">
+<table>
   <tr>
     <td>
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-tharwat&theme=tokyonight" alt="Profile Details" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-tharwat&theme=tokyonight" alt="Profile Details" />
     </td>
   </tr>
 </table>
 
 <!-- Monthly Contribution Graph -->
-<table width="100%">
+<table>
   <tr>
     <td>
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ali-tharwat&theme=tokyo-night&area=true&hide_border=true&days=28&custom_title=December%20Contribution%20Graph" alt="Activity Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-tharwat&theme=tokyo-night&area=true&hide_border=true&days=28&custom_title=December%20Contribution%20Graph" alt="Activity Graph" />
     </td>
   </tr>
 </table>
