@@ -43,16 +43,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/ali-tharwat/ali-tharwat/output/streak.svg" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<!-- Contribution Snake -->
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/ali-tharwat/ali-tharwat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+      <img width="847" src="https://raw.githubusercontent.com/ali-tharwat/ali-tharwat/output/streak.svg" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -61,7 +52,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-tharwat&theme=tokyonight" alt="Profile Details" />
+      <img width="847" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-tharwat&theme=tokyonight" alt="Profile Details" />
     </td>
   </tr>
 </table>
@@ -70,7 +61,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-tharwat&theme=tokyo-night&area=true&hide_border=true&days=28&custom_title=December%20Contribution%20Graph" alt="Activity Graph" />
+      <img width="847" src="https://github-readme-activity-graph.vercel.app/graph?username=ali-tharwat&theme=tokyo-night&area=true&hide_border=true&days=28&custom_title=December%20Contribution%20Graph" alt="Activity Graph" />
     </td>
   </tr>
 </table>
@@ -79,10 +70,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali-tharwat&theme=tokyonight" alt="Top Languages by Repo" />
+      <img width="423" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali-tharwat&theme=tokyonight" alt="Top Languages by Repo" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-tharwat&theme=tokyonight" alt="Top Languages by Commit" />
+      <img width="423" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-tharwat&theme=tokyonight" alt="Top Languages by Commit" />
     </td>
   </tr>
 </table>
@@ -91,10 +82,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-tharwat&theme=tokyonight" alt="Stats" />
+      <img width="423" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-tharwat&theme=tokyonight" alt="Stats" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ali-tharwat&theme=tokyonight&utcOffset=2" alt="Commits" />
+      <img width="423" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ali-tharwat&theme=tokyonight&utcOffset=2" alt="Commits" />
     </td>
   </tr>
 </table>
