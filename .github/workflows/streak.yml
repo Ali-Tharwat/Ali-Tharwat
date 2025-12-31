@@ -106,7 +106,7 @@ jobs:
 
           function generateSVG(currentStreak, longestStreak, totalContributions) {
             return `<svg xmlns="http://www.w3.org/2000/svg" width="847" height="140" viewBox="0 0 847 140">
-            <rect width="847" height="140" rx="6" fill="#21262d"/>
+            <rect width="847" height="140" rx="6" fill="#1a1b27"/>
             
             <!-- Title - Blue, no bold, no emoji -->
             <text x="423.5" y="25" text-anchor="middle" fill="#58a6ff" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="14">GitHub Streak Stats</text>
