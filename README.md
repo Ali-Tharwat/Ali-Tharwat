@@ -61,7 +61,7 @@
 <table>
   <tr>
     <td>
-      <img width="847" src="https://github-readme-activity-graph.vercel.app/graph?username=ali-tharwat&theme=tokyo-night&area=true&hide_border=true&days=4&custom_title=January%20Contribution%20Graph" alt="Activity Graph" />
+      <img width="847" src="https://github-readme-activity-graph.vercel.app/graph?username=ali-tharwat&theme=tokyo-night&area=true&hide_border=true&days=5&custom_title=January%20Contribution%20Graph" alt="Activity Graph" />
     </td>
   </tr>
 </table>
