@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Tharwat</h1>
 
-## I'm a Data Scientist with a strong foundation in programming, statistics, and machine learning.
+<h3 align="center">Data Scientist specializing in AI, Machine Learning, and Data Engineering.</h3>
 
 ## 📫 Contact & Profiles
 
